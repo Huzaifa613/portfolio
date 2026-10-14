@@ -1,0 +1,6 @@
+{
+  "name": "Inspire Business Academy",
+  "description": "Mobile-first student productivity, reporting, portfolio, and interactive business learning application for Inspire Business Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
